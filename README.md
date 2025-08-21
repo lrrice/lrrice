@@ -1,5 +1,5 @@
 ## Hi there! My name is Levi Rice, and i'm excited to learn about AI!
-Hello! I'm a senior at Lane Tech, and this is my third year in computer science. I've always been interested in the workings of artificial intelligence, and i'm looking forward to taking a deep dive into the subject.
+Hello! I'm a senior at Lane Tech, and this is my third year in computer science. I've always been interested in the workings of artificial intelligence, and i'm looking forward to taking a deep dive into the subject. I love reading and playing videogames.
 <!--
 **lrrice/lrrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
